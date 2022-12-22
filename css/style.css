@@ -764,6 +764,8 @@ a:focus {
 
 .contact_section .detail-box {
   background-image: url(../images/contact-bg.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
   color: #ffffff;
   padding: 140px 15%;
   text-align: center;
