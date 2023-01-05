@@ -390,6 +390,16 @@ a:focus {
   border-radius: 3px;
 }
 
+.feature_section .hierarchy .box {
+  width: 450px;
+  min-width: 350px;
+}
+
+.feature_section .hierarchy .box img {
+  width: 100%;
+  height: 100%;
+}
+
 .feature_section .feature_container .box .img-box svg {
   width: 100%;
   height: auto;
